@@ -1,6 +1,5 @@
 # semanaomnistack11
-Aplicação desenvolvida durante a Semana OmniStack 11, oferecida pela Rocketseat.
+Aplicação desenvolvida durante a Semana OmniStack 11, oferecida pela Rocketseat.</br></br>
 
-Backend feito em nodeJs
-Frontend feito em React
-Aplicação Mobile ainda a ser feita, em React Native
+Backend feito em nodeJs </br>
+Frontend feito em React </br>
